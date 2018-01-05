@@ -1,0 +1,4 @@
+wxPython
+nose
+dose
+unittest
